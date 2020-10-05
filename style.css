@@ -2,6 +2,9 @@ table {
    border: 1.5px solid black;
    border-collapse: collapse;
 }
+h1 {
+    text-align: center;
+}
 thead { 
     background-color: #333333;
     color: white;
