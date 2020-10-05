@@ -5,15 +5,20 @@ table {
 thead { 
     background-color: #333333;
     color: white;
+    border: 1.5px solid black;
 }
 tbody {
     background-color: #eeeeee;
+    border: 1.5px solid black;
 }
 th {
   border: 1.5px solid black;
 }
 td { /*columns*/
     width: 220px;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
 }
 tr { /*rows*/
     height: 120px;
